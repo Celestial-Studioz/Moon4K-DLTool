@@ -1,2 +1,2 @@
-# YetAnother4KDLTool
- The song downloader for Yet Another 4K Rhythm Game!
+# Moon4K Download Tool
+ The song downloader for Moon4K!
