@@ -26,7 +26,7 @@ namespace YA4KRGDLTool
 
         public async Task Run()
         {
-            Console.Title = "Yet Another 4K Song Downloader";
+            Console.Title = "Moon4K Song Downloader";
             Console.WriteLine("Choose a song to download:");
 
             await FetchDirectoryListing("https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/maps.json");
