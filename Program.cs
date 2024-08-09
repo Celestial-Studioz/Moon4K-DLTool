@@ -26,10 +26,10 @@ namespace YA4KRGDLTool
 
         public async Task Run()
         {
-            Console.Title = "Moon4K Song Downloader";
+            Console.Title = "Moon4K Song Downloader - made by Celestial Studios";
             Console.WriteLine("Choose a song to download:");
 
-            await FetchDirectoryListing("https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/maps.json");
+            await FetchDirectoryListing("https://raw.githubusercontent.com/Celestial-Studioz/Moon4k-OnlineMaps/main/maps.json");
 
             while (true)
             {
